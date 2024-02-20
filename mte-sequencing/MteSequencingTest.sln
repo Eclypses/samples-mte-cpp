@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MteSequencingTest", "MteSequencingTest\MteSequencingTest.vcxproj", "{FC742FAC-5470-48EB-ADF6-9E0DF78A3E37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC742FAC-5470-48EB-ADF6-9E0DF78A3E37}.Debug|x64.ActiveCfg = Debug|x64
+		{FC742FAC-5470-48EB-ADF6-9E0DF78A3E37}.Debug|x64.Build.0 = Debug|x64
+		{FC742FAC-5470-48EB-ADF6-9E0DF78A3E37}.Release|x64.ActiveCfg = Release|x64
+		{FC742FAC-5470-48EB-ADF6-9E0DF78A3E37}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A7E755-8AF5-4DB2-BC66-FD81DFBB628D}
+	EndGlobalSection
+EndGlobal
